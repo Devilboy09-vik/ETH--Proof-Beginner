@@ -8,7 +8,6 @@ Token Name: FCOIN Token Symbol: FC Initial Total Supply: 0
 
 ### Contract Functions
 mint(address to_address, uint to_value) -This function creates new tokens and assigns them to the specified address.
-
 *Parameters
 *to_address: The address to which the new tokens will be assigned.
 *to_value: The amount of tokens to be created and assigned.
@@ -18,5 +17,7 @@ mint(address to_address, uint to_value) -This function creates new tokens and as
 
 ## Deploy Contract: 
 Deploy the MyToken contract on an Ethereum-compatible blockchain network. Mint Tokens: Use the mint function to create new tokens and assign them to addresses. Burn Tokens: Use the burn function to destroy tokens from addresses.
-### Code By:
+
+## Code By:
+
 Vikram Garg Email: vikramgarg979@gmail.com
